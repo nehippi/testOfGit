@@ -6,5 +6,5 @@ public class Main {
      System.out.println("helloworld");
      while(true){}
     }
-
+    Object hui = new Object();
 }
